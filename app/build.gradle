@@ -8,7 +8,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
     defaultConfig {
-        applicationId "com.pantip.libraries.imagepicker"
+        applicationId "com.peerapongsam.lab.androidmvpkotlin"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1

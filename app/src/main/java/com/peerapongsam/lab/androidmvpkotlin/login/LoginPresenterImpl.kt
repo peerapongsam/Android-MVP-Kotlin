@@ -1,4 +1,4 @@
-package com.pantip.libraries.imagepicker.login
+package com.peerapongsam.lab.androidmvpkotlin.login
 
 class LoginPresenterImpl(var loginView: LoginView?, var interactor: LoginInteractor) : LoginPresenter, LoginInteractor.OnLoginFinishedListener {
     override fun validateCredentials(username: String, password: String) {

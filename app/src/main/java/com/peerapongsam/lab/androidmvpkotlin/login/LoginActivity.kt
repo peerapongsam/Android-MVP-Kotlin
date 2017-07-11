@@ -1,11 +1,11 @@
-package com.pantip.libraries.imagepicker.login
+package com.peerapongsam.lab.androidmvpkotlin.login
 
 import android.content.Intent
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
-import com.pantip.libraries.imagepicker.R
-import com.pantip.libraries.imagepicker.main.MainActivity
+import com.peerapongsam.lab.androidmvpkotlin.R
+import com.peerapongsam.lab.androidmvpkotlin.main.MainActivity
 import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity(), LoginView {

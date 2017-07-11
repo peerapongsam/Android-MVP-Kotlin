@@ -1,4 +1,4 @@
-package com.pantip.libraries.imagepicker
+package com.peerapongsam.lab.androidmvpkotlin
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.pantip.libraries.imagepicker", appContext.packageName)
+        assertEquals("com.peerapongsam.lab.androidmvpkotlin", appContext.packageName)
     }
 }
